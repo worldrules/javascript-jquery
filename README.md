@@ -1,3 +1,0 @@
-# javascript-jquery
-Livro / Estudos
-
